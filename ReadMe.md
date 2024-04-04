@@ -1,12 +1,13 @@
 Customer Banking System#
 This project is a customer banking system that allows users to calculate and track interest earned on savings and CD accounts. By running this application, users will be able to enter their savings and CD account information, see the interest earned, and view the updated balances after a specified number of months.
+
 Getting Started
 
 To get started with this project, clone this repository to your local machine.
 Shell Script
 git clone <repo-link>
 
-##Files
+Files#
 
 The project consists of the following files:
 
@@ -26,4 +27,4 @@ python customer_banking.py
 
 Follow the prompts to enter your savings and CD account information. The program will calculate the interest earned and update the balances for a specified number of months.
 
-(Readme Written entrirely by ChatGPT)
+(Readme Written entrirely by ChatGPT. Code for customer_banking.py written by Daraun Prince and only leveraged ChatGPT for auditing and problem solving. The other files were provided with the assignment)
